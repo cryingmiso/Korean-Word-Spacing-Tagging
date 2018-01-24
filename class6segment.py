@@ -6,7 +6,7 @@ import sys
 from colorama import Fore, Back, Style, init
 
 DELIMITER = ' '
-sentense = u"..나는 오늘 3000원짜리 밥을 먹었어. 그리고, 오늘은 집에가서 20만원 정도 게임을 살 거야!!!! 내 전화번호는 010-5295-0224야. 전화해? 이거슨 클라스 추가하는 각인가요?? 응?"
+sentense = u"..나는 오늘 3000원짜리 밥을 먹었어. 그리고, 오늘은 집에가서 20만원 정도 게임을 살 거야!!!! 내 전화번호는 010-5000-0200야. 전화해? 이거슨 클라스 추가하는 각인가요?? 응?"
 labels = []
 chars = []
 segments = sentense.split(DELIMITER)
